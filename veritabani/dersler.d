@@ -1,0 +1,4 @@
+bb131 Devreler_Ve_Sistemler1 Bilgisayar_Mühendisliði Lojistik_Amfi_4
+bb132 Devkek Bilgisayar_Mühendisliði Lojistik_Amfi_4
+bb12 Nesneye_Yonelik_Programlama Bilgisayar_Mühendisliði Lojistik_Amfi_4
+bb130 Devreler_Ve_Sistemler0 Bilgisayar_Mühendisliði Lojistik_Amfi_4
