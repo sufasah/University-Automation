@@ -8,7 +8,7 @@ University Automation
 Fadıl Şahin
 <br>
 
-* Project Date: <br/>
+* Project Start Date: <br/>
 April 2020
 <br>
 
